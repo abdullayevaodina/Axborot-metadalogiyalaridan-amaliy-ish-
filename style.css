@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+h2 {
+    color: #334155;
+}
+
+p {
+    font-size: 18px;
+    color: #475569;
+}
