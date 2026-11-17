@@ -1,17 +1,49 @@
-# Axborot-metadalogiyalaridan-amaliy-ish-
-Git, git hub va loyiha repozitoriyasini tashkil 
-**Talaba:** Abdullayeva Odinaxon
+Git va GitHub loyihasi
 
-**Fan:** axborot-metadalogiyalari
+Loyiha mavzusi: Repository tashkil etish.
 
-**Mavzu:** Git, GitHub va loyiha repozitoriyasini tashkil etish
+Loyiha haqida
 
-## Loyiha maqsadi
-Git va GitHub bilan ishlashni o‘rganish,
-loyiha fayllarini saqlash va o‘zgarishlarni boshqarish.
+Ushbu loyiha Git va GitHub platformalarini amaliy o‘rganish uchun yaratildi.
 
-## Loyiha fayllari
-- index.html
-- style.css
-- README.md
-<p>Git va GitHub yordamida loyiha fayllari boshqariladi.</p>
+Git nima?
+
+Git — loyiha fayllaridagi o‘zgarishlarni kuzatish va boshqarish tizimi.
+
+GitHub nima?
+
+GitHub — loyihalarni internetda saqlash va boshqarish platformasi.
+
+Loyihaning maqsadi
+
+Repository yaratish.
+
+Fayllarni yuklash.
+
+HTML va CSS bilan ishlash.
+
+Veb-sayt yaratish.
+
+GitHub Pages orqali saytni internetga joylashtirish.
+
+Loyiha fayllari
+
+index.html
+
+style.css
+
+about.html
+
+README.md
+
+Loyiha muallifi
+
+Talaba: Abdullayeva Odinaxon
+
+Yo‘nalish: Axborot texnologiyalari
+
+Yil: 2026
+
+Sayt manzili
+
+Saytni ko‘rish
