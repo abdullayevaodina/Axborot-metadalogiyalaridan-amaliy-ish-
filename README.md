@@ -14,3 +14,4 @@ loyiha fayllarini saqlash va o‘zgarishlarni boshqarish.
 - index.html
 - style.css
 - README.md
+<p>Git va GitHub yordamida loyiha fayllari boshqariladi.</p>
